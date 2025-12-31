@@ -24,7 +24,7 @@ The dashboard helps in understanding health patterns, identifying risk zones, an
 
 # 🛠 Tech Stack
 
-📊 Tableau Public
+📊 Tableau 
 
 📁 CSV Health Dataset
 
